@@ -1,0 +1,5 @@
+package simulations
+
+class RampUsersLoadSimulation {
+
+}
